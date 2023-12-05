@@ -6,7 +6,7 @@ I'm an evolutionary plant biologist by training and data scientist by trade.
 
 If you're interested in my plant biology work (🥦🧬🔬🖥), please check out my [other GitHub account](https://github.com/rlbaker5).
 
-orcid: [0000-0001-7591-5035](https://orcid.org/0000-0001-7591-5035)
+[](ORCIDiD_icon16x16.png)orcid: [0000-0001-7591-5035](https://orcid.org/0000-0001-7591-5035)
 
 [google scholar](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
 
