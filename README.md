@@ -12,6 +12,7 @@ If you're interested in my plant biology work (🥦🧬🔬🖥), please check o
 
 ![](LI-In-Bug.png =16x16)(https://www.linkedin.com/in/robertlbaker)
 
+<img src="LI-In-Bug.png" width = 16>
 
 
 <!--
