@@ -6,13 +6,13 @@ I'm an evolutionary plant biologist by training and data scientist by trade.
 
 If you're interested in my plant biology work (🥦🧬🔬🖥), please check out my [other GitHub account](https://github.com/rlbaker5).
 
-[![ORCIDid icon](ORCIDiD_icon16x16.png)](https://orcid.org/0000-0001-7591-5035)
+[![ORCIDid icon]<img src="ORCIDiD_icon16x16.png" width = 3x>](https://orcid.org/0000-0001-7591-5035)
 
 ![](32px-Google_Scholar_logo.svg.png) [google scholar](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
 
 ![](LI-In-Bug.png =16x16)(https://www.linkedin.com/in/robertlbaker)
 
-<img src="LI-In-Bug.png" width = 16>
+<img src="LI-In-Bug.png" width = 32>
 
 
 <!--
