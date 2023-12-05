@@ -8,7 +8,7 @@ If you're interested in my plant biology work (🥦🧬🔬🖥), please check o
 
 orcid: [0000-0001-7591-5035](https://orcid.org/0000-0001-7591-5035)
 
-(google scholar)[https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en] 
+[google scholar](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
 
 
 
