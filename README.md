@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+I'm an evolutionary plant biologist by training and data scientist by trade. 
+
+Currently, I'm working on Open and Fair data and metadata publication guidelines, workflows, and tools for the [National Park Service](https://github.com/nationalparkservice). This includes developing and maintaining as well as providing support for a number of R packages. I'm interested and excited to collaborate with anyone working on data publication and metadata creation. 
+
+On the side, I continue my work in plant biology as a lifetime member of both the [Botanical Society of America]([https://bsa.org](https://botany.org/) and the [Society for the Study of Evolution](http://www.evolutionsociety.org/). I'm on several BSA committees, and am an associate editor for [Applications in Plant Sciences](https://bsapubs.onlinelibrary.wiley.com/journal/21680450). I'm excited to collaborate with anyone and am willing to help out with analyses and/or writing. Feel free to check out my [other GitHub account](https://github.com/rlbaker5) for more plant biology related code.
+
+
+
 
 <!--
 **RobLBaker/RobLBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
