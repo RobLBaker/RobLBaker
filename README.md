@@ -1,8 +1,8 @@
 ### Hello!
 I'm an evolutionary plant biologist by training and data scientist by trade. 
 
-- 🔭 I’m currently working on Open and Fair data and metadata publication guidelines, workflows, and tools for the [National Park Service](https://github.com/nationalparkservice).
-- 👯 I’m interested and excited to collaborate with anyone working on data publication and metadata creation. 
+- I’m currently working on Open and Fair data and metadata publication guidelines, workflows, and tools for the [National Park Service](https://github.com/nationalparkservice).
+- I’m interested and excited to collaborate with anyone working on data publication and metadata creation. 
 
 If you're interested in my plant biology work (🥦🧬🔬🖥), please check out my [other GitHub account](https://github.com/rlbaker5).
 
