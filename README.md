@@ -10,7 +10,7 @@ If you're interested in my plant biology work (🥦🧬🔬🖥), please check o
 
 ![](32px-Google_Scholar_logo.svg.png) [google scholar](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
 
-![](LI-In-Bug.png | width = 16)(https://www.linkedin.com/in/robertlbaker)
+![](LI-In-Bug.png =16x16)(https://www.linkedin.com/in/robertlbaker)
 
 
 
