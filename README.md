@@ -6,7 +6,7 @@ I'm an evolutionary plant biologist by training and data scientist by trade.
 
 If you're interested in my plant biology work (🥦🧬🔬🖥), please check out my [other GitHub account](https://github.com/rlbaker5).
 
-[<img src="ORCIDiD_icon16x16.png" width = 16x>](https://orcid.org/0000-0001-7591-5035) &emsp;   [<img src="LI-In-Bug.png" width = 16x>](https://www.linkedin.com/in/robertlbaker)  &emsp;  [<img src="32px-Google_Scholar_logo.svg.png" width = 16x>](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
+[<img src="ORCIDiD_icon32x32.png" width = 32x>](https://orcid.org/0000-0001-7591-5035) &emsp;   [<img src="LI-In-Bug.png" width = 32x>](https://www.linkedin.com/in/robertlbaker)  &emsp;  [<img src="32px-Google_Scholar_logo.svg.png" width = 32x>](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&hl=en)
 
 
 <!--
